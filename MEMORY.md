@@ -2,13 +2,37 @@
 
 ## Who Joe Is
 - Owner of Ampersand/ANT Manufacturing (custom toroidal inductor manufacturer)
-- Working with his dad on sales/business development strategy
+- Working with Khuyen (business partner, co-owner) — NOT his dad
 - NK Technologies is his reference client ($15M-$30M, current sensors, San Jose)
 - Has a developer friend helping with the website
 
 ## Hardware
 - **MacBook Air** — primary machine
 - **Samsung T9 SSD** — external backup drive, connected via USB, running **Time Machine** (hourly backups)
+
+## Business Model
+- [Ampersand Business Model](feedback_ampersand_business.md) — Suppliers make cores, Ampersand winds copper wire. Never confuse this.
+
+## Writing Rules
+- [Writing Style Rules](feedback_writing_style.md) — No em dashes, no "truly", no contrast frames, no AI tells in any writing for Joe
+- [RFQ Email Style](feedback_rfq_style.md) — Direct, no fluff, state the price, demand quality, create urgency. Use the Minerva-12 email as the template for ALL supplier inquiries.
+
+## Suppliers
+- [Ampersand Suppliers](suppliers.md) — Supplier contacts, pricing, negotiations. READ `/Documents/AMP-Business/Suppliers.md` every conversation.
+- [Ualloy Minerva-70 Negotiation](ualloy_minerva70_negotiation.md) — Active: quote expected Apr 7. Anchor $1.79. NEVER say "NK-70" to Lu.
+- [Minerva-3 Sourcing Campaign](minerva3_sourcing.md) — Active: India top target, $0.18 anchor, 12K units. 8+ RFQs going out. Master report in AMP-Business.
+
+## Logistics
+- [Dimerco Express](dimerco_logistics.md) — Ampersand's freight forwarder. Offices in China, India, Vietnam. India email: ind@dimerco.com
+
+## Orders & Invoices
+- [Hongyun NK20 Invoice (2026-04-03)](invoice_hongyun_NK20_2026-04-03.md) — 3,000 NK20 cores @ $3.60/pc = $10,800, FOB Shanghai, shipping to Vietnam
+- **Invoices folder:** `/Users/joeshomefolder/Documents/AMP-Business/Invoices/`
+
+## Taxes
+- [Tax Records Location](tax_records_location.md) — Personal tax PDFs live in private GitHub repo `joseph-engels-tax-records` and iCloud Archive `Documents/Financial/`
+- [DeJoy & Co Accountant](dejoy_accountant.md) — Rochester NY CPA firm, prepares Leaders Retreat LLC K-1. NOT confirmed as Joe's personal CPA.
+- [Joe's 2024 Tax Picture](joe_2024_tax_picture.md) — 2024 components on file: Schwab 1099 ($16 total), $20,996.75 Roth IRA early distribution (code J, needs Form 8606), Leaders Retreat K-1 -$622 loss. No 2024 W-2, no 2024 1040 on disk.
 
 ## Key Files & Locations
 - **Website project:** `/Users/joeshomefolder/Documents/amp-manufacturing/` — deployed on **Vercel**, repo on **GitHub** (`josephengels1989/amp-manufacturing`). Also backed up on iCloud. ALWAYS `git pull origin main` first to get the latest version before working on it.
@@ -44,6 +68,10 @@
 - **Leads spreadsheet:** `Leads.csv` (Date, Address, City, Zip, Link, Price, Lot Size, Notes, Status)
 - Looking at land/lots in the East Bay, CA
 
+## Tools & Workflows
+- [Cursor workflow](cursor_workflow.md) — Step-by-step to open Cursor with amp-manufacturing project and make website edits
+- [Sales outreach campaign](sales_outreach_2026_04_01.md) — Prospect research, verified contacts, decision makers, follow-ups (Apr 1-2 2026)
+
 ## Preferences
 - Prefers readable, formatted documents (not raw markdown)
 - Uses Apple Numbers and Safari
@@ -59,6 +87,7 @@
 - **Design decisions folder:** `/Users/joeshomefolder/Documents/amp-manufacturing/design-decisions/` — when we make a website design choice backed by research or reasoning, add it to this folder. When a new research-backed decision comes up during website work, REMIND Joe to add it to the design-decisions folder.
 
 ## TODO List
+- **🔴 URGENT -- Sullivan / NK-4 samples:** Find out if Sullivan has provided samples for the NK-4 (quoted at $0.44). If she hasn't, order them from her. Follow up ASAP.
 - **LinkedIn content system:** Create an automatic algorithm for Ampersand posts on LinkedIn. Ampersand should always be posting (every few days or every week). Create LinkedIn posts with credible, on-brand content.
 - **Old iCloud account:** Get access to old iCloud account
 - **Letters:** Write letters to Ash Oakley and Lisa D ahead of Joe's birthday
@@ -96,6 +125,8 @@
 - **Order tracking:** Create spreadsheets to track Ampersand's orders
 - **Income & expenses:** Create spreadsheets to track Ampersand's income and expenses
 - **Flashcard system:** ✅ BUILT — SM-2 spaced repetition flashcard app at `/Users/joeshomefolder/Documents/Flashcards/index.html`. Add cards from reading, review daily.
+- **Lu / Ualloy email (TONIGHT 2026-04-02):** Finish the email to Lu. Need to: (1) thank him for covering logistics, (2) ask to combine Minerva-20 samples with Minerva-12 samples in one package, (3) hit him with Minerva-70 inquiry. Before sending, work out Minerva-70 pricing strategy with Claude first. Key question: is Minerva-70 the same core as NK-70? If so, Yori's $2.80 is the benchmark. What material, what qty, what price to target?
+- **Minerva-3 sourcing:** Send RFQs to 15 suppliers (11 India, 4 China). $0.18/pc anchor, $300/$400 tooling fee. Pick up at #1 KRYFS. See `minerva3_sourcing.md` for full send list.
 - **Kasturi Gandhi:** (details TBD)
 - **Regina Blumquist:** (details TBD)
 
