@@ -16,6 +16,7 @@
 ## Writing Rules
 - [Writing Style Rules](feedback_writing_style.md) — No em dashes, no "truly", no contrast frames, no AI tells in any writing for Joe
 - [RFQ Email Style](feedback_rfq_style.md) — Direct, no fluff, state the price, demand quality, create urgency. Use the Minerva-12 email as the template for ALL supplier inquiries.
+- [Supplier Negotiation Style](feedback_supplier_negotiation_style.md) — Always anchor, face-saving matters, don't pants suppliers in writing, save math for round 2, be ruthless on numbers while gracious on form
 
 ## Suppliers
 - [Ampersand Suppliers](suppliers.md) — Supplier contacts, pricing, negotiations. READ `/Documents/AMP-Business/Suppliers.md` every conversation.

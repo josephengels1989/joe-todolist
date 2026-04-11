@@ -25,16 +25,37 @@ Minerva-70 inquiry sent to Lu Zhang (Ualloy) on 2026-04-04.
 - He quoted on 1,000 units, not the 6,000+ we discussed (low qty = his cover for high price)
 - The $2.53 raw material claim implies $58/kg strip cost — but his own Made-in-China commercial listings show $32-35/kg, and his internal vertical-integrated cost is ~$18/kg. The raw material number is inflated by ~83%.
 
-**Next move (response to Lu still to be drafted):**
-1. Reject quote on volume grounds — re-quote at 6,000 units
-2. Reject the raw material line — call out $58/kg implied vs $32-35/kg commercial
-3. Bar to switching: needs to be meaningfully under $2.90, not at parity. Target $2.00.
-4. Maintain Minerva-70 naming, never say NK-70
+**Email strategy (decided 2026-04-07, email drafted but NOT YET SENT as of 2026-04-10):**
+
+Joe drafted a pushback email with three possible versions:
+1. **Hard version:** Full raw material math call-out ($2.53 vs real $1.38-$1.85), explicit rejection
+2. **Soft version:** No math, just bottom-line price ask, warm opener thanking Michael for Minerva-20 shipping concession
+3. **Hybrid version (Joe's likely pick):** Reframes the math as "our internal model" rather than attacking Lu's quote. Shows we know the numbers without humiliating Lu.
+
+Key email elements across all versions:
+- Anchor restated at $1.79 ("well considered")
+- Offer: $2.05/pc at 3,000 units (first order), recurring orders to follow on same terms
+- Carrot: "primary supplier for this core"
+- Deadline: end of day Friday April 10
+- Opens with thanks to Michael for Minerva-20 shipping logistics
+- NO mention of Yori, NK, or that Joe is stuck
+
+Email draft saved at: `/Users/joeshomefolder/Downloads/Lu_Minerva70_Reply_Draft_2026-04-07.txt`
+(Note: this is the math-heavy version. May need to be updated if Joe sends the hybrid version.)
+
+**CRITICAL: Lu is a woman.** Her English name is Ann. Use she/her. Don't default to "he/him." The suppliers.md file also had this wrong.
+
+**Face-saving strategy:**
+- Do NOT "pants" Lu in writing with raw material math
+- If deploying the math, frame as OUR internal model, not a critique of HER quote
+- Lu has to take any email back to GM Michael. What Michael reads first matters.
+- Save the strongest analytical leverage for round 2 if her counter is still weak
 
 **Side context:**
-- Apr 7 is also when Minerva-20 bank confirmation is expected
+- Minerva-20 bank confirmation was expected Apr 7
 - Asked Lu to combine Minerva-12 and Minerva-20 samples into one Vietnam shipment
 - Don't blow up the relationship over Minerva-70 — Minerva-20 production order ($18,930) is still in flight
+- Lu is also providing Minerva-12 samples (free shipping from GM) and Minerva-20 samples (paid)
 
-**Why:** Active negotiation — need to track status, maintain naming discipline, and remember Lu's first move was a soft test.
-**How to apply:** When Joe mentions Lu, Ualloy, or Minerva-70, read the full Suppliers.md for latest context before responding. Remind Joe to use "Minerva-70" naming if he slips.
+**Why:** Active negotiation — need to track status, maintain naming discipline, protect face-saving, and remember Lu's first move was a soft test.
+**How to apply:** When Joe mentions Lu, Ualloy, or Minerva-70, read the full Suppliers.md for latest context before responding. Remind Joe to use "Minerva-70" naming if he slips. Use she/her for Lu. Frame analytical leverage collaboratively, not accusingly.
