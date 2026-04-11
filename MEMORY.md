@@ -32,7 +32,10 @@
 ## Taxes
 - [Tax Records Location](tax_records_location.md) — Personal tax PDFs live in private GitHub repo `joseph-engels-tax-records` and iCloud Archive `Documents/Financial/`
 - [DeJoy & Co Accountant](dejoy_accountant.md) — Rochester NY CPA firm, prepares Leaders Retreat LLC K-1. NOT confirmed as Joe's personal CPA.
-- [Joe's 2024 Tax Picture](joe_2024_tax_picture.md) — 2024 components on file: Schwab 1099 ($16 total), $20,996.75 Roth IRA early distribution (code J, needs Form 8606), Leaders Retreat K-1 -$622 loss. No 2024 W-2, no 2024 1040 on disk.
+- [Joe's Tax Picture 2024-2025](joe_2024_tax_picture.md) — 2024 FILED (refund $1,935 fed + $1,274 CA). 2025 in progress: $32K Roth distribution, $24,813 taxable, Leaders Retreat K-1, Ampersand $21K loss.
+- [Schwab Consultant](schwab_consultant.md) — Kerri Palermo, VP Financial Consultant. Accounts: brokerage 3126-8821, Roth IRA 7646-6192.
+- [Ampersand S-Corp 2026](ampersand_scorp_2026.md) — Converting to S-corp in 2026, Joe will take W-2 salary. Solves IRA earned income requirement.
+- [Never Use Taxerone](feedback_taxesone.md) — Terrible experience filing Ampersand 1065. Never recommend again.
 
 ## Key Files & Locations
 - **Website project:** `/Users/joeshomefolder/Documents/amp-manufacturing/` — deployed on **Vercel**, repo on **GitHub** (`josephengels1989/amp-manufacturing`). Also backed up on iCloud. ALWAYS `git pull origin main` first to get the latest version before working on it.
@@ -86,8 +89,18 @@
 - **Troubleshooting first:** If something isn't working (broken links, pages not loading, sign-in failures), ask about Joe's environment FIRST — what network he's on, what device, what browser, etc. Don't keep throwing new links/solutions at the wall. Diagnose before prescribing. Start with the basics: hardware, WiFi/network, then move up to the platform/software. Layer by layer, bottom up.
 - **Design decisions folder:** `/Users/joeshomefolder/Documents/amp-manufacturing/design-decisions/` — when we make a website design choice backed by research or reasoning, add it to this folder. When a new research-backed decision comes up during website work, REMIND Joe to add it to the design-decisions folder.
 
+## Master Goal
+- [Five-Year $3M Goal](five_year_goal.md) -- **READ EVERY CONVERSATION.** $3M house by April 2031. $5.5M/year gross through Ampersand. 50/50 net profit split with Khuyen. Bring up routinely.
+
 ## TODO List
 - **🔴 URGENT -- Sullivan / NK-4 samples:** Find out if Sullivan has provided samples for the NK-4 (quoted at $0.44). If she hasn't, order them from her. Follow up ASAP.
+- **🔴 URGENT -- Try ZoomInfo by Wed 2026-04-15:** Sign up for ZoomInfo trial and test it out before next Wednesday. Compare against Apollo.io for the $10M-$30M manufacturer use case.
+- **🔴 URGENT -- Sales prospecting tools:** Sign up and start using these to find $10M-$30M manufacturers:
+  - **Apollo.io** -- cheaper than ZoomInfo, comparable database, good coverage of that revenue range
+  - **LinkedIn Sales Navigator** -- decision makers at smaller manufacturers (owners, VP Engineering) are reachable here
+  - **Thomasnet.com** -- purpose-built for industrial components, companies listed are actively sourcing. Best fit for Ampersand's use case
+  - **ECIA directories** -- electronics components industry association, exactly the target market
+  - This is founder-led sales. These tools feed the $5.5M goal directly.
 - **LinkedIn content system:** Create an automatic algorithm for Ampersand posts on LinkedIn. Ampersand should always be posting (every few days or every week). Create LinkedIn posts with credible, on-brand content.
 - **Old iCloud account:** Get access to old iCloud account
 - **Letters:** Write letters to Ash Oakley and Lisa D ahead of Joe's birthday
