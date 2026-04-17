@@ -114,7 +114,7 @@
 **Supplier Emails (overdue):**
 - [ ] **Lu / Ualloy email** — (1) thank for logistics, (2) combine Minerva-20 + Minerva-12 samples, (3) Minerva-70 inquiry. Anchor $1.79. NEVER say "NK-70."
 - [ ] **Ravi / SNR Corp response** — ravi.snrcorp@gmail.com — he responded to Minerva-3 RFQ, terms TBD. Pin down price/MOQ/tooling.
-- [ ] **Sullivan / NK-4 samples** — confirm she sent samples ($0.44 quote). If not, order now.
+- ✅ **Sullivan / NK-4 samples** — responded 2026-04-17
 
 **Sales Tools:**
 - [ ] Sign up for ZoomInfo trial (overdue from 2026-04-15). Compare vs Apollo.io for $10M-$30M manufacturers.
