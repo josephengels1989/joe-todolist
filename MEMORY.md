@@ -56,6 +56,9 @@
 - Color-code progress and celebrate when he hits 10 hours for the week
 - Phone is a major distraction source -- keep him away from phone-based solutions
 
+## NK Technologies Competitors (Sales Targets)
+- [NK Technologies Direct Competitors](nk_competitors_zoominfo.md) -- 5 US pure-play current sensor companies. All need toroidal cores. ZoomInfo lookup targets.
+
 ## Sales Strategy (Dad's Advice)
 - Focus on $10M-$30M revenue companies (sweet spot)
 - Hot category regardless of what they make
@@ -75,6 +78,7 @@
 ## Tools & Workflows
 - [Cursor workflow](cursor_workflow.md) — Step-by-step to open Cursor with amp-manufacturing project and make website edits
 - [Sales outreach campaign](sales_outreach_2026_04_01.md) — Prospect research, verified contacts, decision makers, follow-ups (Apr 1-2 2026)
+- [Connor Murray Cold Call Script](connor_murray_cold_call_script.md) — THE script Joe uses for cold calls. Lives at `/Users/joeshomefolder/Documents/AMP-Business/Connor_Murray_Cold_Call_Script.md`. Permission opener, 30-45s value statement, rejection rebuttal, the "sell time not product" framework.
 
 ## Preferences
 - Prefers readable, formatted documents (not raw markdown)
@@ -94,55 +98,83 @@
 - [Five-Year $3M Goal](five_year_goal.md) -- **READ EVERY CONVERSATION.** $3M house by April 2031. $5.5M/year gross through Ampersand. 50/50 net profit split with Khuyen. Bring up routinely.
 
 ## TODO List
-- **🔴 URGENT -- Sullivan / NK-4 samples:** Find out if Sullivan has provided samples for the NK-4 (quoted at $0.44). If she hasn't, order them from her. Follow up ASAP.
-- **🔴 URGENT -- Try ZoomInfo by Wed 2026-04-15:** Sign up for ZoomInfo trial and test it out before next Wednesday. Compare against Apollo.io for the $10M-$30M manufacturer use case.
-- **🔴 URGENT -- Sales prospecting tools:** Sign up and start using these to find $10M-$30M manufacturers:
-  - **Apollo.io** -- cheaper than ZoomInfo, comparable database, good coverage of that revenue range
-  - **LinkedIn Sales Navigator** -- decision makers at smaller manufacturers (owners, VP Engineering) are reachable here
-  - **Thomasnet.com** -- purpose-built for industrial components, companies listed are actively sourcing. Best fit for Ampersand's use case
-  - **ECIA directories** -- electronics components industry association, exactly the target market
+
+### 🔴 IMMEDIATE — Do This Week (week of 2026-04-14)
+
+**Cold Call Prep (Connor Murray script):**
+- [ ] Memorize 6-beat outline: Formality > Breath > ID > Value > Close > Rebuttal
+- [ ] Value statement under 45 seconds (time yourself)
+- [ ] Downward inflection on "how are you" — not upward
+- [ ] Rejection rebuttal memorized cold
+- [ ] 3+ flashcard-ready differentiators for round 2 pushback
+- [ ] Run full pitch out loud 10x at home
+- [ ] **MAKE FIRST CALL: Cirexx — Chris Altamirano (408) 988-3980** — "Your company creates custom flex and rigid-flex PCB assemblies"
+- [ ] Follow-up call: Olympic Controls (847) 742-3566 — called before, no answer
+
+**Supplier Emails (overdue):**
+- [ ] **Lu / Ualloy email** — (1) thank for logistics, (2) combine Minerva-20 + Minerva-12 samples, (3) Minerva-70 inquiry. Anchor $1.79. NEVER say "NK-70."
+- [ ] **Ravi / SNR Corp response** — ravi.snrcorp@gmail.com — he responded to Minerva-3 RFQ, terms TBD. Pin down price/MOQ/tooling.
+- [ ] **Sullivan / NK-4 samples** — confirm she sent samples ($0.44 quote). If not, order now.
+
+**Sales Tools:**
+- [ ] Sign up for ZoomInfo trial (overdue from 2026-04-15). Compare vs Apollo.io for $10M-$30M manufacturers.
+
+**Website:**
+- [ ] Focused work sessions on ampmanufacturing.com (1 hour/day)
+
+### 🟡 THIS MONTH
+
+**Sales Prospecting Tools** — sign up and start using to find $10M-$30M manufacturers:
+  - **Apollo.io** — cheaper than ZoomInfo, comparable database
+  - **LinkedIn Sales Navigator** — decision makers at smaller manufacturers
+  - **Thomasnet.com** — purpose-built for industrial components, best fit for Ampersand
+  - **ECIA directories** — electronics components industry association
   - This is founder-led sales. These tools feed the $5.5M goal directly.
-- **LinkedIn content system:** Create an automatic algorithm for Ampersand posts on LinkedIn. Ampersand should always be posting (every few days or every week). Create LinkedIn posts with credible, on-brand content.
-- **Old iCloud account:** Get access to old iCloud account
-- **Letters:** Write letters to Ash Oakley and Lisa D ahead of Joe's birthday
-- **Regina Baker:** Decide on gift for Regina Baker and send her a letter
-- **Aunt Eileen:** Return Aunt Eileen's package with my own package
-- **Aunt Eileen (ASAP):** Purchase drugs for Aunt Eileen
-- **Karina:** Congratulate Karina and send her money
-- **Nick:** Repay Nick for South Dakota trip
-- **S Corp:** Convert Ampersand to an S corp
-- **Legal & Accounting:** Find legal and accounting for Ampersand
-- **Rice & corn research:** Research arsenic in rice and American corn flour health
-- **Charles Schwab:** Open business account with Charles Schwab
-- **John Gray:** Discuss John Gray the philosopher and his books (come back to this)
-- **Ampersand growth prediction:** Use the process from p.190 of *Thinking, Fast and Slow* (Kahneman) to predict growth of Ampersand. Work with Claude on this.
-- **Send email on financial projections:** Send financial projections email
-- **Schwab meeting prep:** Gather all documentation for the Charles Schwab branch meeting. (Status: 50% complete)
-  - ✅ LLC Amendment: Filed to add Joseph V. Engels as co-owner (50/50 with Khuyen) — pending both signatures
-  - ✅ Certificate of Good Standing: Ordered from CA Secretary of State (ready to print from portal, not yet printed)
-  - ✅ Owner Information Document: Created professional form at `/Users/joeshomefolder/Documents/AMP-Business/Schwab_Owner_Information.html` (warm orange theme, MM/DD/YYYY dates)
-  - ⏳ EIN Letter: Call IRS (1-800-829-4933) to request official EIN letter — do this tomorrow morning
-  - ⏳ Owner Information Document: Fill out with Joseph V. Engels & Khuyen V. Nguyen info, print 2 copies
-  - ⏳ Business Activity Info: Prepare numbers on monthly transactions, deposits, withdrawals, and account usage
-    - How many customer orders/transactions per month?
-    - Average order value?
-    - Expected monthly revenue total?
-    - Typical monthly deposits (from customers)?
-    - Typical monthly withdrawals (paying suppliers/vendors)?
-    - Do you and Khuyen have employees, or just you two?
-    - Will you need payroll processing through Schwab?
-    - Primary account use: operating account, vendor payments, customer deposits, etc.?
-  - ⏳ Schedule Schwab meeting and gather final documents
-- **Regression to the mean:** Do a deep dive on regression to the mean so I fully understand it. Work with Claude on this.
-- **Agent building:** Dialogue with Claude about how to build an agent
-- **Bank statement agent:** Build an agent to review Ampersand's bank statements
-- **Order tracking:** Create spreadsheets to track Ampersand's orders
-- **Income & expenses:** Create spreadsheets to track Ampersand's income and expenses
-- **Flashcard system:** ✅ BUILT — SM-2 spaced repetition flashcard app at `/Users/joeshomefolder/Documents/Flashcards/index.html`. Add cards from reading, review daily.
-- **Lu / Ualloy email (TONIGHT 2026-04-02):** Finish the email to Lu. Need to: (1) thank him for covering logistics, (2) ask to combine Minerva-20 samples with Minerva-12 samples in one package, (3) hit him with Minerva-70 inquiry. Before sending, work out Minerva-70 pricing strategy with Claude first. Key question: is Minerva-70 the same core as NK-70? If so, Yori's $2.80 is the benchmark. What material, what qty, what price to target?
-- **Minerva-3 sourcing:** Send RFQs to 15 suppliers (11 India, 4 China). $0.18/pc anchor, $300/$400 tooling fee. Pick up at #1 KRYFS. See `minerva3_sourcing.md` for full send list.
+
+**Supplier Sourcing:**
+- [ ] **Minerva-3 RFQs** — send to 15 suppliers (11 India, 4 China). $0.18/pc anchor, $300/$400 tooling. KRYFS #1. See `minerva3_sourcing.md`.
+
+**Schwab Meeting Prep** (50% complete):
+  - ✅ LLC Amendment filed (pending signatures)
+  - ✅ Certificate of Good Standing ordered (ready to print)
+  - ✅ Owner Information Document created
+  - ⏳ Call IRS (1-800-829-4933) for official EIN letter
+  - ⏳ Fill out + print 2 copies of Owner Info doc
+  - ⏳ Prep business activity numbers (monthly txns, avg order, deposits/withdrawals)
+  - ⏳ Schedule Schwab meeting
+
+**LinkedIn content system:** automatic posting algorithm for Ampersand (every few days or weekly)
+**Financial projections email:** draft and send
+
+### 🟢 ONGOING / WHEN READY
+
+**Business Structure:**
+- S-Corp conversion (2026)
+- Legal & Accounting for Ampersand
+- Charles Schwab business account
+
+**Build Projects:**
+- SuperMemo: save flashcards to GitHub (currently localStorage only — lost if Safari clears)
+- Bank statement agent for Ampersand
+- Order tracking spreadsheets
+- Income & expenses spreadsheets
+- Ampersand growth prediction (Kahneman p.190 method)
+
+**Flashcard system:** ✅ BUILT at `/Users/joeshomefolder/Documents/Flashcards/index.html`. Add cards from reading, review daily.
+
+### 📋 PERSONAL
+- **Nick:** Repay South Dakota trip
+- **Letters:** Write to Ash Oakley and Lisa D (before Joe's birthday)
+- **Regina Baker:** Decide on gift, send letter
+- **Old iCloud account:** Get access
 - **Kasturi Gandhi:** (details TBD)
 - **Regina Blumquist:** (details TBD)
+
+### 📖 LEARNING (no deadline)
+- Rice & corn arsenic research
+- John Gray philosopher discussion + his books
+- Regression to the mean deep dive
+- Agent building dialogue with Claude
 
 ## Books Wish List
 - **The Life of Samuel Johnson** — James Boswell (Everyman's Library hardcover edition) ✅ ORDERED
